@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Ambiente virtual Python
+venv/
+
+# VSCode
+.vscode/
+
+# PostgreSQL dumps
+*.sql.dump
+*.backup
+
+# Docker
+*.pid
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Outros
+*.log
+*.swp
+
+# Arquivos temporários
+*~
+# Arquivos de testes
+/teste*/
